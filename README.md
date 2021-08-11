@@ -1,6 +1,6 @@
-# Binary Search Tree
+# AVL Tree
 
-This program is the solution to the problem statement given in the file [Questions.pdf](Questions.pdf).
+This program is the solution to the problem statement given in the file [Questions.pdf](Questions.pdf) using AVL trees.
 
 
 
@@ -12,7 +12,7 @@ This program is the solution to the problem statement given in the file [Questio
 
 1. The program displays <b>Processing...</b> while it processes the input
 
-1. The program writes the processed output in the files [`output1.txt`](output1.txt) and [`output2.txt`](output2.txt)
+1. The program writes the processed output in the files [`AVLtree.txt`](AVLtree.txt)
 
 1. The program exits with the message <b>Done!</b>
 
@@ -41,14 +41,6 @@ This program is the solution to the problem statement given in the file [Questio
    1. Navigate to the directory where the project is cloned/extracted
    1. Double click on the file `launch.cmd`
    1. Follow the onscreen instructions, if any
-
-
-
-## Tree Diagram
-
-If the below diagram appears too much scaled down to view, please click [here](Images/diagram.svg)
-
-![Tree](Images/diagram.svg)
 
 
 
